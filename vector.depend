@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1515444714 source:e:\artur\programs\codeblocks\myprojects\vector\vector\main.cpp
+	<iostream>
+	<initializer_list>
+	<stdexcept>
+	<vector>
+
